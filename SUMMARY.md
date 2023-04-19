@@ -14,4 +14,4 @@
 
     - [1. REST API](week02_REST_API/rest-api.md)
     - [2. URI & MIME TYPE](week02_REST_API/uri-mime-type.md)
-    
+    - [3. Collection pattern](week02_REST_API/collection-pattern.md)
