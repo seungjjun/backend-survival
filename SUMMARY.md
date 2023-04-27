@@ -21,4 +21,5 @@
 - [3주차](week03_DTO_JSON_CORS/README.md)
 
     - [1. DTO](week03_DTO_JSON_CORS/dto.md)
+    - [2. 직렬화](week03_DTO_JSON_CORS/serialization.md)
     
