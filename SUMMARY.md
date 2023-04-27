@@ -22,4 +22,4 @@
 
     - [1. DTO](week03_DTO_JSON_CORS/dto.md)
     - [2. 직렬화](week03_DTO_JSON_CORS/serialization.md)
-    
+    - [3. Jackson ObjectMapper](week03_DTO_JSON_CORS/jackson-object.md)
