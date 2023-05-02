@@ -26,3 +26,5 @@
     - [4. CORS](week03_DTO_JSON_CORS/cors.md)
     
 - [4주차](week04_Layered_Architecture/README.md)
+
+    - [1. Layered Architecture](week04_Layered_Architecture/layered-architecture.md)
