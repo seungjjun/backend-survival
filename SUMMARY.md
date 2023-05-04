@@ -28,3 +28,5 @@
 - [4주차](week04_Layered_Architecture/README.md)
 
     - [1. Layered Architecture](week04_Layered_Architecture/layered-architecture.md)
+    - [2. Data Access](week04_Layered_Architecture/data-access.md)
+    - [3. Domain Model](week04_Layered_Architecture/domain-model.md)
