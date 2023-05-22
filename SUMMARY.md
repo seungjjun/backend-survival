@@ -37,3 +37,11 @@
     - [2. Unit Test](week05_DI_SpringTest/unit-test.md)
     - [3. Spring Test](week05_DI_SpringTest/spring-test.md)
     - [4. TDD](week05_DI_SpringTest/tdd.md)
+
+- [6주차](week06_Database/README.md)
+
+    - [1. Database](week06_Database/database.md)
+
+- [7주차](week07_JPA/README.md)
+
+    - [1. ORM](week07_JPA/orm.md)
