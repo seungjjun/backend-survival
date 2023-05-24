@@ -45,3 +45,5 @@
 - [7주차](week07_JPA/README.md)
 
     - [1. ORM](week07_JPA/orm.md)
+    - [2. Hibernate](week07_JPA/hibernate.md)
+    - [3. Embeddable](week07_JPA/embeddable.md)
