@@ -47,3 +47,4 @@
     - [1. ORM](week07_JPA/orm.md)
     - [2. Hibernate](week07_JPA/hibernate.md)
     - [3. Embeddable](week07_JPA/embeddable.md)
+    - [4. Relationship Mapping](week07_JPA/relationship-mapping.md)
