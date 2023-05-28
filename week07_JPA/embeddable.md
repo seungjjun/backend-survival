@@ -12,8 +12,17 @@
 - VO를 잘 활용하면 단일책임원칙을 따를 수 있다.
 
 ## Aggregate Mapping
+- Aggregate Mapping은 Hibernate 또는 JPA 같은 ORM 프레임워크에서 제공하는 기능이다.
+
 - Value Object를 JPA에서 지원할수 있도록 하는 기술이다.
 
+- Aggregate라고 하는 복잡한 값 객체를 데이터베이스 테이블의 단일 열 또는 열 집합에 매핑할 수 있다.
+
+- 객체 지향 프로그래밍에서 Aggregate는 관련 특성 또는 속성 그룹을 캡슐화하는 객체이다.
+
+- Aggregate는 값 객체 또는 Entity의 구성요소가 될 수 있다.
+
+- Aggregate Mapping을 사용하면 Aggregate를 데이터베이스 테이블의 하나 이상의 열에 매핑할 수 있다.
 
 ## JPA 어노테이션
 ### @Entity
