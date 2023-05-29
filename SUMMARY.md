@@ -51,3 +51,6 @@
     - [5. Spring Data JPA](week07_JPA/spring-data-jpa.md)
 
 - [8주차](week08_DDD/README.md)
+
+    - [1. DDD](week08_DDD/ddd.md)
+    
