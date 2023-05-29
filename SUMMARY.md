@@ -53,4 +53,4 @@
 - [8주차](week08-DDD/README.md)
 
     - [1. DDD](week08-DDD/ddd.md)
-    
+    - [2. Strategic Design](week08-DDD/strategic-design.md)
