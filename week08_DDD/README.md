@@ -11,5 +11,3 @@
 - Entity, Value Object
 - Aggregate
 - Repository
-
- 

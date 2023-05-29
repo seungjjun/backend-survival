@@ -52,5 +52,7 @@
 
 - [8주차](week08-DDD/README.md)
 
-    - [1. DDD](week08-DDD/ddd.md)
-    - [2. Strategic Design](week08-DDD/strategic-design.md)
+    - [1. DDD](week08_DDD/ddd.md)
+    - [2. Strategic Design](week08_DDD/strategic-design.md)
+    - [3. Entity, Value Object](week08_DDD/entity-value_object.md)
+    
