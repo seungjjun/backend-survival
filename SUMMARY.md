@@ -50,7 +50,7 @@
     - [4. Relationship Mapping](week07_JPA/relationship-mapping.md)
     - [5. Spring Data JPA](week07_JPA/spring-data-jpa.md)
 
-- [8주차](week08-DDD/README.md)
+- [8주차](week08_DDD/README.md)
 
     - [1. DDD](week08_DDD/ddd.md)
     - [2. Strategic Design](week08_DDD/strategic-design.md)
