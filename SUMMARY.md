@@ -57,3 +57,9 @@
     - [3. Entity, Value Object](week08_DDD/entity-value_object.md)
     - [4. Aggregate](week08_DDD/aggregate.md)
     - [5. Repository](week08_DDD/repository.md)
+
+- [9주차](week09_Hexagonal_Architecture/README.md)
+    
+    - [1. SOLID](week09_Hexagonal_Architecture/solid.md)
+    - [2. Hexagonal Architecutre](week09_Hexagonal_Architecture/hexagonal-architecutre.md)
+    
