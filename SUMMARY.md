@@ -64,3 +64,5 @@
     - [2. Hexagonal Architecutre](week09_Hexagonal_Architecture/hexagonal-architecutre.md)
     
 - [10주차](week10_Spring_Security/README.md)
+
+    - [1. 애플리케이션 수준의 보안](week10_Spring_Security/application-level-security.md)
