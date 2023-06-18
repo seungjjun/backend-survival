@@ -69,3 +69,4 @@
     - [2. 인증](week10_Spring_Security/authentication.md)
     - [3. 로그인](week10_Spring_Security/login-logout.md)
     - [4. 회원가입](week10_Spring_Security/signup.md)
+    - [5. JWT & Authority](week10_Spring_Security/jwt-authority.md)
